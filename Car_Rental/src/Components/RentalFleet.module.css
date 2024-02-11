@@ -1,0 +1,60 @@
+.RenFleet{
+
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+
+}
+
+.RenFleetDesc{
+  text-align: center;
+}
+
+.models{
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.fleet{
+  font-weight: bold;
+  font-size: 45px;
+}
+
+
+
+
+
+.RentalData{
+ 
+
+}
+
+.ModelButtons{
+ 
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.Innerbuttons{
+  width: 100px;
+  background-color: red;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.carImages{
+   align-items: center;
+   justify-content: center;
+   justify-items: center;
+}
+
+
+/* .AudiImage{
+  width: 100px;
+  height: 100px;
+  margin-left: 10px;
+} */
+.rmain{
+  display: flex;
+  flex-direction: row;
+}

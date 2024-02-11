@@ -1,0 +1,75 @@
+.quickRes{
+  text-align: center;
+  font-size: 3.5cap;
+  font-weight: bolder;
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
+
+
+
+.icon1{
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  margin:10px 30px;
+  padding: 0 30px;
+}
+
+
+.iconIco1{
+  width: 80px;
+  height: 80px;
+  margin-bottom: 20px;
+  /* margin-left: 150px; */
+  margin-top: 20px;
+  color: orangered;
+  
+}
+
+
+
+.pquick{
+  margin-top: 10px;
+  font-weight: bold;
+  font-size: 25;
+}
+
+
+
+.icon2{
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  margin:10px 30px;
+  padding: 0 30px;
+
+}
+ 
+
+.contac{
+  margin-top: 10px;
+  font-weight: bold;
+  font-size: 25;
+}
+
+
+.icon3{
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  margin:10px 30px;
+  padding: 0 30px;
+}
+
+.LetsDrive{
+  margin-top: 10px;
+  font-weight: bold;
+  font-size: 25;
+
+}
+
+
+
+
+

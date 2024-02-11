@@ -1,0 +1,51 @@
+
+.Home_peg{
+
+  display: flex;
+
+ 
+  /* flex-direction: row-reverse; */
+}
+
+.Home_par{
+  font-weight: bold;
+ 
+  margin-right: 50px;
+  margin-top: 150px;
+  
+}
+
+.Home_par_2{
+  font-size: 40px;
+  font-weight: bold;
+  /* margin: 30px 30px; */
+}
+
+.Home_Desc{
+  text-align: center;
+  
+}
+
+.HomeImg{
+  width: 700px;
+  height: 500px;
+  margin-left: 100px;
+  filter: drop-shadow(100);
+  filter: brightness(1);
+}
+
+.btn1{
+  width: 80px;
+  height: 55px;
+  border-radius: 5px;
+  border: none;
+}
+
+
+.btn2{
+  margin: 20px 20px;
+  width: 120px;
+  height: 55px;
+  border-radius: 5px;
+  border: none;
+}
