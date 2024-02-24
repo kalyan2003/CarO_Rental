@@ -1,0 +1,91 @@
+
+.main{
+  display: flex;
+  flex-direction: column;
+  
+}
+
+
+
+
+
+
+.Car3image{
+  width: 800px;
+  height: 500px;
+  margin-left: 25%;
+  margin-top: 50px;
+  border-radius: 10%;
+}
+
+
+.textSection{
+
+  display: flex;
+  flex-direction: row;
+  
+  
+}
+
+.myButton{
+  background-color: orangered;
+  width: 130px;
+  padding: 10px 0;
+  border: none;
+}
+
+.ValueDeals{
+  /* text-align: center;  */
+  margin-top: 150px;
+  margin-left: 250px;
+  margin-right: 100px;
+ 
+}
+
+.chooseUs{
+  font-weight: bold;
+  line-height: 0.3;
+}
+
+.BestDeals{
+  font-weight: bold;
+  font-size: 2rem;
+  line-height: 1;
+}
+
+
+
+
+.Features{
+  margin-top: 50px;
+  
+ 
+ 
+ 
+}
+
+
+
+.Feature1{
+  display: flex;
+  /* flex-wrap: wrap; */
+  flex-direction: row;
+  padding-right: 200px;
+  margin-top: 30px;
+
+}
+
+
+.Jeepicon{
+  width: 70px;
+  height: 60px;
+  margin-top: 20px;
+  margin-right: 30px;
+  
+}
+
+.Country{
+  line-height: 0.5px  ;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
