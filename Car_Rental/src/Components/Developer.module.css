@@ -1,0 +1,42 @@
+
+.DeveloperEdi{
+  margin-top: 3rem;
+  justify-content: center;
+  text-align: center;
+  margin-bottom: 50px;
+  
+}
+
+.DevelopedBy
+{
+  font-weight: 600;
+  font-size: 50px;
+}
+
+.DeveEdition{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+
+.Pavan{
+  font-weight: 700;
+  font-size: 1.25rem;
+}
+
+.linImg{
+  width: 20px;
+  height: 20px;
+  border-radius: 100%;
+  margin-top: 5px;
+  margin-right: 10px;
+}
+
+.gitImg{
+  width: 20px;
+  height: 20px;
+  border-radius: 100%;
+  margin-top: 5px;
+  margin-left: 10px;
+}

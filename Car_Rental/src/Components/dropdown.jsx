@@ -19,7 +19,9 @@ export default function Dropdown(props) {
   };
 
   return (
+    <div className={styles.DropMain}>
     <div className={styles.dropdown} style={{ backgroundColor: backgroundColor }}>
+      
       <div onClick={() => {toggleDropdown(); changeColorAndRotate();}} className={styles.dropbtn}>
         {props.title}
         <img src={arrow} alt="Icon" className={styles.arrowImg} style={{ transform: `rotate(${rotation}deg)` }} />
@@ -29,6 +31,7 @@ export default function Dropdown(props) {
           <p>{props.desc}</p>
         </div>
       )}
+    </div>
     </div>
   );
 }

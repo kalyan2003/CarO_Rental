@@ -9,9 +9,10 @@ import SaveBig from "./Components/SaveBig";
 import Car3Component from "./Components/Car3component";
 import Testimonials from "./Components/Testimonials";
 import Facts from "./Components/Facts";
+import Footer from "./Components/Footer";
+import Developer from "./Components/Developer";
 
 function App() {
-  
   return (
     <>
       <Header_car />
@@ -22,6 +23,8 @@ function App() {
       <Car3Component></Car3Component>
       <Testimonials></Testimonials>
       <Facts></Facts>
+      <Footer></Footer>
+      <Developer></Developer>
     </>
   );
 }

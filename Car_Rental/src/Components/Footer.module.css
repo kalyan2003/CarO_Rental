@@ -1,0 +1,64 @@
+
+.FooterMain{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-top: 80px;
+}
+
+.Rentalinfo{
+
+ margin-left: 20rem;
+}
+
+
+.CarRen{
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.footPara{
+  font-size: 1.5rem;
+}
+
+.footPara2{
+  line-height: 0.5rem;
+  font-weight: bold;
+}
+
+.CompanyLocat{
+  margin-left: 10px;
+  margin-right: 20px;
+
+  line-height: 1rem;
+  margin-left: 10rem;
+}
+
+.comName{
+  font-weight: bold;
+  font-size: 1.5rem
+}
+
+
+
+
+.GmailImg{
+  width: 20px;
+  height: 20px;
+}
+
+.phoneImg{
+  width: 20px;
+  height: 20px;
+}
+
+
+.WorkHrs{
+  margin-left: 10rem;
+  line-height: 1rem;
+}
+
+.workHrs1{
+  font-weight: bold;
+  font-size: 1.5rem;
+}
